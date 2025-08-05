@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Yahira Alejandra Manrique</h1>
+<h1 align="center">Hola 👋 soy Yahira Alejandra Manrique</h1>
 <h3 align="center">QA Tester Jr | Java Developer Jr | ISTQB Certified</h3>
 
 ---
