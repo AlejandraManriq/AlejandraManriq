@@ -19,27 +19,26 @@ Specialized in **functional testing, APIs, and automation using Selenium and Pos
   <!-- Testing -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/TestNG-F2C311?style=for-the-badge&logo=java&logoColor=black" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>  
   
   <!-- Dev Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 ---
 
 ### 📚 Aprendiendo / Currently Learning
 
-- Automatización de pruebas con Selenium + Java
-- Jenkins + CI/CD básico
-- Cypress (próximo objetivo)
+- 🧪 Automatización básica con Selenium + Java
+- 🧼 Mejores prácticas en pruebas manuales (exploratorias, regresión)
+- 🔧 Postman + Newman para automatización de APIs
+- ⚙️ GitHub Actions para integración continua (CI)
+- 📊 Reportes con Allure y buenas prácticas de documentación
 
 ---
 
@@ -56,8 +55,8 @@ Specialized in **functional testing, APIs, and automation using Selenium and Pos
 ### 🌍 Idiomas / Languages
 
 - 🇪🇸 Español nativo
-- 🇬🇧 Inglés B2
-- 🇩🇪 Alemán B2
+- 🇬🇧 Inglés B1
+- 🇩🇪 Alemán B1
 
 ---
 
