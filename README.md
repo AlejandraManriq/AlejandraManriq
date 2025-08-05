@@ -5,11 +5,11 @@
 
 ### 🧑‍💻 Sobre mí / About me
 
-🇪🇸 Técnica en programación y pruebas de software, certificada en **ISTQB® Foundation Level**.  
-Especializada en **pruebas funcionales, APIs y automatización con Selenium y Postman**.
+🇪🇸 Técnica en programación y pruebas de software, certificada en ISTQB® Foundation Level.
+Actualmente me estoy formando en pruebas funcionales, testing de APIs y automatización con Selenium y Postman. Me apasiona la calidad del software y estoy desarrollando proyectos personales para construir mi portafolio como QA.
 
-🇬🇧 I am a software testing and programming technician, certified in **ISTQB® Foundation Level**.  
-Specialized in **functional testing, APIs, and automation using Selenium and Postman**.
+🇬🇧 I am a software programming and testing technician, certified in ISTQB® Foundation Level.
+I am currently training in functional testing, API testing, and test automation using Selenium and Postman. I’m passionate about software quality and building personal projects to grow my QA portfolio.
 
 ---
 
