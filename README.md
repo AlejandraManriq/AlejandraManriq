@@ -59,16 +59,22 @@ Passionate about software quality and problem-solving, currently building person
 
 - 🇪🇸 Spanish: Native  
 - 🇬🇧 English: B1 (Intermediate)  
-- 🇩🇪 German: B1 (Intermediate)  
 
 ---
-
 ## 🤝 Let’s Connect!
 
 <p align="left">
-  <a href="mailto:alejandramanriq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/alejandra-manrique-castaño"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- Gmail -->
+  <a href="mailto:alejandramanriq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/alejandra-manrique-cast">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
+
 
 ---
 
