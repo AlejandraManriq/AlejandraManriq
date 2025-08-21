@@ -5,13 +5,14 @@
 
 ### 🧑‍💻 Sobre mí / About me
 
-Técnica en programación y pruebas de software, certificada en ISTQB® Foundation Level.  
-Actualmente me estoy formando en **pruebas funcionales, testing de APIs, automatización con Selenium** y también en **desarrollo backend con Java**.  
-Me apasiona la calidad del software, la resolución de problemas y estoy creando proyectos personales para construir mi portafolio tanto en QA como en desarrollo.
+Técnica en programación y pruebas de software, certificada en ISTQB® Foundation Level.
+En formación práctica en pruebas funcionales, testing de APIs y automatización con Selenium, con conocimientos en desarrollo backend con Java.
+Apasionada por la calidad del software y la resolución de problemas, actualmente desarrollo proyectos personales en QA y backend para fortalecer mi portafolio y aportar valor en entornos ágiles.
 
-I am a software programming and testing technician, certified in ISTQB® Foundation Level.  
-I am currently training in **functional testing, API testing, Selenium automation**, and also in **backend development with Java**.  
-I’m passionate about software quality, problem-solving, and I’m working on personal projects to grow my portfolio in both QA and backend development.
+Software programming and testing technician, certified in ISTQB® Foundation Level.
+Gaining hands-on experience in functional testing, API testing, and Selenium automation, with additional knowledge in backend development with Java.
+Passionate about software quality and problem-solving, currently building personal QA and backend projects to strengthen my portfolio and contribute in agile environments.
+
 
 ---
 
