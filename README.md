@@ -65,8 +65,8 @@ Passionate about software quality and problem-solving, currently building person
 
 <p align="left">
   <!-- Gmail -->
-  <a href="mailto:alejandramanriq@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:alejandramanriq@gmail.com?subject=Hello%20Alejandra!%20I%20found%20your%20GitHub%20profile&body=Hi%20Alejandra,">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
   <!-- LinkedIn -->
