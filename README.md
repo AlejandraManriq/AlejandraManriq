@@ -58,8 +58,9 @@ Passionate about software quality and problem-solving, currently building person
 
 ## 🌍 Languages
 
-- 🇪🇸 Spanish: Native  
-- 🇬🇧 English: B1 (Intermediate)  
+-  Spanish: Native  
+-  English: B1 (Intermediate)
+-  german:  B1
 
 ---
 ## 🤝 Let’s Connect!
