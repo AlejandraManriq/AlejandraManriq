@@ -46,12 +46,13 @@ Passionate about software quality and problem-solving, currently building person
 
 ## 📌 Highlighted Projects
 
+
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [`qa-web-amazon`](https://github.com/YOUR_USERNAME/qa-web-amazon) | Designed and executed 15 manual test cases on Amazon.com purchase flow. Reported 5 defects with severity and priority (Jira simulated). | Excel, Jira |
-| [`api-testing-jsonplaceholder`](https://github.com/YOUR_USERNAME/api-testing-jsonplaceholder) | Public REST API testing (GET, POST, PUT, DELETE) with Postman and automated execution via Newman. | Postman, Newman |
-| [`selenium-login-automation`](https://github.com/YOUR_USERNAME/selenium-login-automation) | Automated login tests (valid/invalid) in demo app. Generated reports with Allure following QA best practices. | Selenium, Java, Allure |
-| [`java-mini-backend`](https://github.com/YOUR_USERNAME/java-mini-backend) | Developed a basic REST API for products with Spring Boot, tested endpoints with Postman and Maven dependencies. | Java, Spring Boot, Postman |
+| [qa-web-amazon](https://github.com/AlejandraManriq/qa-web-amazon) | Designed and executed 15 manual test cases on Amazon.com purchase flow. Reported 5 defects with severity and priority (Jira simulated). | Excel, Jira |
+| [api-testing-jsonplaceholder](https://github.com/AlejandraManriq/api-testing-jsonplaceholder) | Public REST API testing (GET, POST, PUT, DELETE) with Postman and automated execution via Newman. | Postman, Newman |
+| [selenium-login-automation](https://github.com/AlejandraManriq/selenium-login-automation) | Automated login tests (valid/invalid) in demo app. Implemented Page Object Model with Selenium and JUnit 5. | Selenium, Java, JUnit 5 |
+| [java-mini-backend](https://github.com/AlejandraManriq/java-mini-backend) | Developed a basic REST API for products with Spring Boot, tested endpoints with Postman and Maven dependencies. | Java, Spring Boot, Postman |
 
 ---
 
