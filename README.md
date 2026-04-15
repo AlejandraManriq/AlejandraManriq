@@ -3,13 +3,11 @@
 
 ---
 
-I am an **AI & Data Quality Analyst** with experience evaluating and improving AI-generated outputs in large-scale datasets.  
+I am an **AI & Data Quality Analyst** currently building my path into **Machine Learning and Data Analysis**.
 
-My work focuses on identifying patterns, ensuring data consistency, and contributing to the improvement of machine learning systems.
+I have experience working with AI-generated data, reviewing outputs, identifying inconsistencies, and supporting data quality processes in real-world environments.
 
-I combine a strong background in **Quality Assurance** with growing expertise in **Data Analysis and Machine Learning**, allowing me to bridge the gap between data quality and model performance.
-
-Currently developing practical projects in Machine Learning and AI to strengthen hands-on experience.
+I am now focusing on developing hands-on skills in data analysis and machine learning through practical projects.
 
 ---
 
@@ -20,7 +18,6 @@ Currently developing practical projects in Machine Learning and AI to strengthen
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prophet-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
   <!-- Data -->
@@ -37,35 +34,32 @@ Currently developing practical projects in Machine Learning and AI to strengthen
 
 ---
 
-## 📊 Featured AI / Data Project
+## 📊 Featured Project
 
-| Project | Description | Tools |
-|--------|------------|------|
-| 🔥 [analisis-prediccion-fallas-industriales](LINK_AQUI) | Machine Learning project to classify industrial failures and predict future behavior using Random Forest and Prophet. Includes EDA, model evaluation, forecasting and business interpretation. | Python, Pandas, Scikit-learn, Prophet |
+| Project | Description |
+|--------|------------|
+| 🔥 [analisis-prediccion-fallas-industriales](LINK_AQUI) | Project where I explored data, built a classification model and worked on predicting future behavior using time-based analysis. Focused on understanding patterns and translating results into business insights. |
 
 ---
 
 ## 📚 Current Focus
 
-- 🤖 Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
-- 📊 Model Evaluation & Metrics (Accuracy, Precision, Recall, F1 Score)
-- 🧹 Data Analysis & Preprocessing (EDA, cleaning, feature understanding)
-- 🌳 Tree-based Models (Decision Trees, Random Forest)
-- 🧠 Large Language Models (LLMs) & Prompt Engineering
-- 🔍 Retrieval-Augmented Generation (RAG) – Conceptual understanding
-- 📈 Model Interpretability (SHAP, LIME – basic level)
-- 🐍 Python & Jupyter Notebooks for data workflows
+- 🤖 Learning Machine Learning (classification & prediction)
+- 📊 Data analysis (EDA, cleaning, understanding data)
+- 🌳 Tree-based models (Random Forest)
+- 🧠 AI data evaluation and pattern identification
+- 🐍 Improving Python skills for data projects
 
 ---
 
 ## 📌 Previous QA / Development Projects
 
-| Project | Description | Tools |
-|---------|-------------|-------|
-| [qa-web-amazon](https://github.com/AlejandraManriq/qa-web-amazon) | Manual testing on e-commerce flow, defect reporting and analysis. | Excel, Jira |
-| [api-testing-jsonplaceholder](https://github.com/AlejandraManriq/api-testing-jsonplaceholder) | REST API testing with Postman and automation via Newman. | Postman |
-| [selenium-login-automation](https://github.com/AlejandraManriq/selenium-login-automation) | Automated login testing using Page Object Model. | Selenium, Java |
-| [java-mini-backend](https://github.com/AlejandraManriq/java-mini-backend) | Basic REST API with Spring Boot. | Java, Spring Boot |
+| Project | Description |
+|---------|-------------|
+| [qa-web-amazon](https://github.com/AlejandraManriq/qa-web-amazon) | Manual testing on e-commerce flow, defect reporting and analysis. |
+| [api-testing-jsonplaceholder](https://github.com/AlejandraManriq/api-testing-jsonplaceholder) | REST API testing with Postman. |
+| [selenium-login-automation](https://github.com/AlejandraManriq/selenium-login-automation) | Automated login testing using Selenium. |
+| [java-mini-backend](https://github.com/AlejandraManriq/java-mini-backend) | Basic REST API with Spring Boot. |
 
 ---
 
@@ -93,13 +87,11 @@ Currently developing practical projects in Machine Learning and AI to strengthen
 
 ## ⭐ About Me
 
-✨ Strong background in QA + transition into AI/Data  
-✨ Experience working with real-world datasets  
-✨ Focused on building practical Machine Learning solutions  
+✨ Background in QA and AI data evaluation  
+✨ Currently transitioning into Data / Machine Learning  
+✨ Focused on learning through practical projects  
 
-🚀 Open to opportunities in:
-- AI / Data Quality  
+🚀 Open to junior opportunities in:
 - Data Analyst  
-- Machine Learning Junior roles  
-
----
+- AI / Data Quality  
+- Machine Learning (Junior)
