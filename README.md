@@ -1,84 +1,105 @@
 <h1 align="center">Hola 👋 Soy Yahira Alejandra Manrique</h1>
-<h3 align="center">QA Tester Jr | Java Developer Jr | ISTQB Certified</h3>
+<h3 align="center">AI & Data Quality Analyst | Machine Learning | Python</h3>
 
 ---
 
+I am an **AI & Data Quality Analyst** with experience evaluating and improving AI-generated outputs in large-scale datasets.  
 
-Software programming and testing technician, certified in **ISTQB® Foundation Level**.  
-Hands-on practice in functional testing, API testing, and Selenium automation, with additional knowledge in backend development with Java.  
-Passionate about software quality and problem-solving, currently building personal QA and backend projects to strengthen my portfolio and contribute in agile environments.  
+My work focuses on identifying patterns, ensuring data consistency, and contributing to the improvement of machine learning systems.
+
+I combine a strong background in **Quality Assurance** with growing expertise in **Data Analysis and Machine Learning**, allowing me to bridge the gap between data quality and model performance.
+
+Currently developing practical projects in Machine Learning and AI to strengthen hands-on experience.
 
 ---
 
 ## 🚀 Technologies
 
 <p align="left">
-  <!-- QA Tools -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Allure-FF69B4?style=for-the-badge&logo=allure&logoColor=white" alt="Allure"/>
+  <!-- Data / AI -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prophet-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <!-- QA -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+  <!-- Dev -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📚 In Progress
+## 📊 Featured AI / Data Project
 
-- 🧪 Basic automation with Selenium + Java  
-- 🔧 API testing with Postman + Newman  
-- 🧼 Best practices in manual testing (exploratory, regression)  
-- ☕ Java fundamentals and object-oriented programming  
-- 🌱 Spring Boot (REST controllers, dependencies, testing)  
-- ⚙️ GitHub Actions for CI/CD  
-- 📊 Test reporting with Allure and documentation best practices  
+| Project | Description | Tools |
+|--------|------------|------|
+| 🔥 [analisis-prediccion-fallas-industriales](LINK_AQUI) | Machine Learning project to classify industrial failures and predict future behavior using Random Forest and Prophet. Includes EDA, model evaluation, forecasting and business interpretation. | Python, Pandas, Scikit-learn, Prophet |
 
 ---
 
-## 📌 Highlighted Projects
+## 📚 Current Focus
 
+- 🤖 Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
+- 📊 Model Evaluation & Metrics (Accuracy, Precision, Recall, F1 Score)
+- 🧹 Data Analysis & Preprocessing (EDA, cleaning, feature understanding)
+- 🌳 Tree-based Models (Decision Trees, Random Forest)
+- 🧠 Large Language Models (LLMs) & Prompt Engineering
+- 🔍 Retrieval-Augmented Generation (RAG) – Conceptual understanding
+- 📈 Model Interpretability (SHAP, LIME – basic level)
+- 🐍 Python & Jupyter Notebooks for data workflows
+
+---
+
+## 📌 Previous QA / Development Projects
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [qa-web-amazon](https://github.com/AlejandraManriq/qa-web-amazon) | Designed and executed 15 manual test cases on Amazon.com purchase flow. Reported 5 defects with severity and priority (Jira simulated). | Excel, Jira |
-| [api-testing-jsonplaceholder](https://github.com/AlejandraManriq/api-testing-jsonplaceholder) | Public REST API testing (GET, POST, PUT, DELETE) with Postman and automated execution via Newman. | Postman, Newman |
-| [selenium-login-automation](https://github.com/AlejandraManriq/selenium-login-automation) | Automated login tests (valid/invalid) in demo app. Implemented Page Object Model with Selenium and JUnit 5. | Selenium, Java, JUnit 5 |
-| [java-mini-backend](https://github.com/AlejandraManriq/java-mini-backend) | Developed a basic REST API for products with Spring Boot, tested endpoints with Postman and Maven dependencies. | Java, Spring Boot, Postman |
+| [qa-web-amazon](https://github.com/AlejandraManriq/qa-web-amazon) | Manual testing on e-commerce flow, defect reporting and analysis. | Excel, Jira |
+| [api-testing-jsonplaceholder](https://github.com/AlejandraManriq/api-testing-jsonplaceholder) | REST API testing with Postman and automation via Newman. | Postman |
+| [selenium-login-automation](https://github.com/AlejandraManriq/selenium-login-automation) | Automated login testing using Page Object Model. | Selenium, Java |
+| [java-mini-backend](https://github.com/AlejandraManriq/java-mini-backend) | Basic REST API with Spring Boot. | Java, Spring Boot |
 
 ---
 
 ## 🌍 Languages
 
--  Spanish: Native  
--  English: B1 (Intermediate)
--  German:  B1
+- Spanish: Native  
+- English: B2  
+- German: B2  
 
 ---
+
 ## 🤝 Let’s Connect!
 
 <p align="left">
-  <!-- Gmail -->
-  <a href="mailto:alejandramanriq@gmail.com?subject=Hello%20Alejandra!%20I%20found%20your%20GitHub%20profile&body=Hi%20Alejandra,">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:alejandramanriq@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/alejandra-manrique-cast">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-
 ---
 
-✨ **Open to opportunities as a QA Tester Junior | Ready to collaborate and grow in QA and Software Development.**
+## ⭐ About Me
 
+✨ Strong background in QA + transition into AI/Data  
+✨ Experience working with real-world datasets  
+✨ Focused on building practical Machine Learning solutions  
+
+🚀 Open to opportunities in:
+- AI / Data Quality  
+- Data Analyst  
+- Machine Learning Junior roles  
+
+---
